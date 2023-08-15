@@ -11,6 +11,6 @@ I have created my personal portfolio. In this you can see deatils about me like 
   
 # How to run this project
 
-Clone the project using command 
-Open the project in your prefered code editor.
-Run the index.html file in your prefered web browser.
+* Clone the project using command - git clone https://github.com/Anjali2806/Personal_Portfolio.git
+* Open the project in your prefered code editor.
+* Run the index.html file in your prefered web browser.
